@@ -1,0 +1,9 @@
+{
+  "name": "secret-collection-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for Secret Collection",
+  "main": "netlify/functions/bot.js",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
