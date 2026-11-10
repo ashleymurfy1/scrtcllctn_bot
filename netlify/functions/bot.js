@@ -24,12 +24,12 @@ exports.handler = async (event) => {
                 inline_keyboard: [
                     [
                         // Ganti URL di bawah dengan Link Invite Channel Privat Anda
-                        { text: "CH Lokal", url: "https://t.me/+LINK_INVITE_CH_LOKAL" },
-                        { text: "CH Of", url: "https://t.me/+LINK_INVITE_CH_OF" }
+                        { text: "CH Lokal", url: "https://t.me/+y5eE87DiY7RmNzg9" },
+                        { text: "CH Of", url: "https://t.me/+Xdqhk-4NGNQ2Yzg1" }
                     ],
                     [
-                        { text: "CH Back up 1", url: "https://t.me/+LINK_INVITE_BACKUP_1" },
-                        { text: "CH Back up 2", url: "https://t.me/+LINK_INVITE_BACKUP_2" }
+                        { text: "CH Back up 1", url: "https://t.me/+Hv4E1xJRZ2EyOGU1" },
+                        { text: "CH Back up 2", url: "https://t.me/+vRqevdVJ7m02MzZl" }
                     ]
                 ]
             };
